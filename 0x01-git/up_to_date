@@ -1,5 +1,5 @@
 git add README.md
 
 git commit -m "fixed"
-
+git pull
 
